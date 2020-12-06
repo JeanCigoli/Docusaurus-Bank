@@ -11,11 +11,6 @@ module.exports = {
   docs: [  
     {
       type: 'category',
-      label: 'Docusaurus',
-      items: ['doc1'],
-    },
-    {
-      type: 'category',
       label: 'Getting Started',
       items: [
         'installation',
