@@ -13,6 +13,7 @@ module.exports = {
       type: 'category',
       label: 'Getting Started',
       items: [
+        'info',
         'installation',
         'structure',
       ],
